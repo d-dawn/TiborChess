@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>red.png</file>
+        <file>arrow.png</file>
+        <file>blue.png</file>
+        <file>water.png</file>
+        <file>shoot.png</file>
+        <file>ice.png</file>
+        <file>home.png</file>
+        <file>dark-souls-you-died.jpg</file>
+        <file>map.jpg</file>
+    </qresource>
+</RCC>
